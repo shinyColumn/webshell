@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/shinyColumn/webshell/refs/heads/main/shell.php
+https://raw.githubusercontent.com/shinyColumn/webshell/refs/heads/main/webshell.php
